@@ -15,7 +15,14 @@ Laistrygonians, Cyclops,
 wild Poseidon—you won’t encounter them
 unless you bring them along inside your soul,
 unless your soul sets them up in front of you.
+```
 
+<details>
+  <summary> 
+    Read more 📃
+  </summary>
+
+```
 Hope your road is a long one.
 May there be many summer mornings when,
 with what pleasure, what joy,
@@ -44,3 +51,7 @@ And if you find her poor, Ithaka won’t have fooled you.
 Wise as you will have become, so full of experience,
 you’ll have understood by then what these Ithakas mean.
 ```
+
+</details>
+
+
